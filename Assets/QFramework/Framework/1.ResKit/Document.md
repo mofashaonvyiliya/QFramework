@@ -47,3 +47,8 @@ loader.Recycle2Cache();
 
 loader = null;
 ```
+#### 注意
+
+* 加载 AssetBundle
+* Command/Ctrl + Shift + R 弹出资源面板
+* 取消勾选 Simulation Mode
